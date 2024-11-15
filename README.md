@@ -21,16 +21,9 @@ Open-source **[Django Template](https://www.creative-tim.com/templates/django)**
 
 ## Table of Contents
 
-* [Demo](#demo)
 * [Quick Start](#quick-start)
-* [Documentation](#documentation)
 * [File Structure](#file-structure)
 * [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
 
 <br />
 
@@ -74,11 +67,6 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 ```
 
 > Note: To use the app, please access the registration page and create a new user. After authentication, the app will unlock the private pages.
-
-<br />
-
-## Documentation
-The documentation for the **Argon Dashboard Django** is hosted at our [website](https://demos.creative-tim.com/argon-dashboard-django/docs/getting-started/getting-started-django.html).
 
 <br />
 
