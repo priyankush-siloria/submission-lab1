@@ -34,9 +34,6 @@ Open-source **[Django Template](https://www.creative-tim.com/templates/django)**
 
 <br />
 
-## Demo
-
-> To authenticate use the default credentials ***test / ApS12_ZZs8*** or create a new user on the **registration page**.
 
 - **Argon Dashboard Django** [Login Page](https://www.creative-tim.com/live/argon-dashboard-django)
 - **[Django Argon Charts](https://github.com/app-generator/django-argon-charts)** - sample projects that showcase real information in charts 
